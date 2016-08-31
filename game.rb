@@ -5,7 +5,7 @@
 puts "Welcome to Fodix! Here, your knowledge and cunning will be tested and, if you win, you will have The Power of All Light! Good luck on your journey, traveler, and enjoy the world of Faudland!"
 puts "What is your name?"
 name = gets.strip.capitalize
-if name == "Tyler2"
+if name == "white-buffalo"
   puts "Welcome, Creator."
 else
   puts "Welcome #{name}, to the amazing land of Faudland!"
