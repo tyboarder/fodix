@@ -1,2 +1,2 @@
 # fodix
-# A game modeled after Zork and made with Ruby.
+## A game modeled after Zork and made with Ruby.
